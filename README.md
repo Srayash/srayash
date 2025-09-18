@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a sophomore at the Indian Institute of Technology, Guwahati pursuing my B.Tech in Biosciences and Bioengineering.<br>🌱 learning Blockchain Development.<br>
+🔭 I’m a sophomore at the Indian Institute of Technology, Guwahati pursuing my B.Tech in Biosciences and Bioengineering.
 
 # 💻 Tech Stack:
 [![Language](https://skillicons.dev/icons?i=cpp,ts,js,html,css&theme=light)](https://skillicons.dev)
