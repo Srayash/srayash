@@ -2,7 +2,7 @@
 🔭 I’m a sophomore at the Indian Institute of Technology, Guwahati pursuing my B.Tech in Biosciences and Bioengineering.
 
 # 💻 Tech Stack:
-[![Language](https://skillicons.dev/icons?i=cpp,ts,js,html,css&theme=light)](https://skillicons.dev)<br>
+[![Language](https://skillicons.dev/icons?i=cpp,ts,js,python&theme=light)](https://skillicons.dev)<br>
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light)](https://skillicons.dev)<br>
 [![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)<br>
 [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=light)](https://skillicons.dev)<br>
