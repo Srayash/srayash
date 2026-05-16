@@ -4,7 +4,7 @@
 # 💻 Tech Stack:
 [![Language](https://skillicons.dev/icons?i=cpp,ts,js,python&theme=light)](https://skillicons.dev)<br>
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light)](https://skillicons.dev)<br>
-[![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)<br>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=light)](https://skillicons.dev)<br>
 [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=light)](https://skillicons.dev)<br>
 [![DevOps](https://skillicons.dev/icons?i=aws,cloudflare,docker&theme=light)](https://skillicons.dev)<br>
 
