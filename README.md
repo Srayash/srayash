@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m a sophomore at the Indian Institute of Technology, Guwahati pursuing my B.Tech in Biosciences and Bioengineering.
-
 # 💻 Tech Stack:
 [![Language](https://skillicons.dev/icons?i=cpp,ts,js,python&theme=light)](https://skillicons.dev)<br>
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light)](https://skillicons.dev)<br>
